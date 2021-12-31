@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "solc": "^0.8.11"
+    "solc": "^0.8.11",
+    "web3": "^1.6.1"
   }
 }

@@ -2,7 +2,7 @@
 pragma solidity >=0.7.0 <0.9.0;
 
 contract HelloWorld {
-  string myName = "Tristan";
+  string myName = "Clyne";
   
   // Add this function:
   function getMyName() public view returns(string memory) {
